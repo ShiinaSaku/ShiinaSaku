@@ -1,5 +1,8 @@
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<p align="center">
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
+</p>
+
 
 <!--
 **ShiinaSaku/ShiinaSaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
