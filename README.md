@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://card.shiina.xyz/card/ShiinaSaku?theme=radical" />
+  <img src="https://card.shiina.xyz/card/ShiinaSaku?theme=shiina" />
 </p>
 
 
