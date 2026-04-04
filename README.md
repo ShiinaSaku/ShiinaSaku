@@ -43,8 +43,9 @@ GitHub には、その途中にある断片や積み重ねを置いています�
 ## 技術と道具
 
 <p align="left">
+  <img src="img/zed.svg" alt="Zed" title="Zed" width="48" style="vertical-align: middle; margin-right: 6px; background-color: #181717; border-radius: 12px; padding: 6px; box-sizing: border-box;" />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=zed,vscode,tailwind,js,ts,react,vue,nextjs,nuxtjs,nodejs,bun,vite,astro,rust,go,apple&theme=dark&perline=8" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=vscode,tailwind,js,ts,react,vue,nextjs,nuxtjs,nodejs,bun,vite,astro,rust,go,apple&theme=dark&perline=8" alt="Tech stack" />
   </a>
 </p>
 
