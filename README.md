@@ -20,9 +20,10 @@
 
 ---
 
-## はじめに <picture><source media="(prefers-color-scheme: dark)" srcset="img/yachiyo.webp"><img src="img/yachiyo.webp" alt="Yachiyo" width="220" align="right" style="margin-left: 18px;"></picture>
+## はじめに <picture><source media="(prefers-color-scheme: dark)" srcset="img/yachiyo.webp"><img src="img/yachiyo.webp" alt="Yachiyo" width="320" align="right" style="margin-left: 20px;"></picture>
 
-**Saku Shiina（椎名 朔）**です。  
+**Saku Shiina（椎名 朔）**です。
+
 静かで芯のある web をつくるのが好きです。
 
 見た目の美しさだけではなく、触れたときの気配、読み込みの速さ、構造の整い方まで含めて、ひとつの体験として丁寧に設計したいと思っています。
