@@ -20,7 +20,19 @@
 
 ---
 
-## はじめに <picture><source media="(prefers-color-scheme: dark)" srcset="img/yachiyo.webp"><img src="img/yachiyo.webp" alt="Yachiyo" width="320" align="right" style="margin-left: 20px;"></picture>
+## はじめに 
+
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github.com/ShiinaSaku/ShiinaSaku/raw/main/img/yachiyo.webp">
+  <img 
+    src="https://github.com/ShiinaSaku/ShiinaSaku/raw/main/img/yachiyo.webp" 
+    alt="Yachiyo" 
+    width="320" 
+    align="right" 
+    style="margin-left: 20px;">
+</picture>
 
 **Saku Shiina（椎名 朔）** です。
 
