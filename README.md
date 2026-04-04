@@ -20,11 +20,11 @@
 
 ---
 
-**Saku Shiina / 椎名 朔** <picture><source media="(prefers-color-scheme: dark)" srcset="img/yachiyo.webp"><img src="img/yachiyo.webp" alt="Yachiyo" width="220" align="right" style="margin-left: 18px;"></picture>
+## はじめに <picture><source media="(prefers-color-scheme: dark)" srcset="img/yachiyo.webp"><img src="img/yachiyo.webp" alt="Yachiyo" width="220" align="right" style="margin-left: 18px;"></picture>
 
-はじめまして、**Saku Shiina（椎名 朔）**です。
+**Saku Shiina（椎名 朔）**です。  
+静かで芯のある web をつくるのが好きです。
 
-静かで芯のある web をつくるのが好きです。  
 見た目の美しさだけではなく、触れたときの気配、読み込みの速さ、構造の整い方まで含めて、ひとつの体験として丁寧に設計したいと思っています。
 
 普段はフロントエンドを軸に、設計と実装のあいだを行き来しながら、プロダクトの輪郭を少しずつ磨いています。  
@@ -32,8 +32,6 @@
 
 サイトには制作や思想を、ブログには実装や設計の記録を。  
 GitHub には、その途中にある断片や積み重ねを置いています。
-
-<br />
 
 > 速さのために雑にしない。  
 > 美しさのために曖昧にしない。
@@ -72,8 +70,16 @@ GitHub には、その途中にある断片や積み重ねを置いています�
 ## 最近の記録
 
 - [Why Atomic CSS Wins at Scale: Tailwind to UnoCSS](https://shiina.xyz/blog)
+  <br />
+  production での移行や設計判断を、性能と DX の視点から整理した記録。
+
 - [From Visual References to Production UI Decisions](https://shiina.xyz/blog)
+  <br />
+  視覚的な参照を、実装可能な UI の判断材料へ落とし込むためのメモ。
+
 - [Designing Quiet Interfaces That Convert](https://shiina.xyz/blog)
+  <br />
+  ノイズを減らしながら、伝わり方と成果の両方を整えるための考え方。
 
 もう少し落ち着いた文章や、設計寄りの記録は [shiina.xyz/blog](https://shiina.xyz/blog) にまとめています。
 
@@ -81,7 +87,7 @@ GitHub には、その途中にある断片や積み重ねを置いています�
 
 ## 断片
 
-```ShiinaSaku/README.md#L81-97
+```ShiinaSaku/README.md#L1-17
 const shiina = {
   name: "Saku Shiina",
   jp: "椎名 朔",
@@ -106,15 +112,23 @@ const shiina = {
 
 <br />
 
-## 案内
-
-- [website](https://shiina.xyz)
-- [blog](https://shiina.xyz/blog)
-- [x / twitter](https://x.com/saku_shiina)
-- [mail](mailto:sakushiina@proton.me)
-
-<br />
+---
 
 <div align="center">
-  <sub>丁寧に設計し、速く届ける。</sub>
+
+### 案内
+
+<a href="https://shiina.xyz">website</a>
+&nbsp;·&nbsp;
+<a href="https://shiina.xyz/blog">blog</a>
+&nbsp;·&nbsp;
+<a href="https://x.com/saku_shiina">x / twitter</a>
+&nbsp;·&nbsp;
+<a href="mailto:sakushiina@proton.me">mail</a>
+
+<br />
+<br />
+
+<sub>丁寧に設計し、速く届ける。</sub>
+
 </div>
