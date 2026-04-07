@@ -8,42 +8,41 @@
 
 <br />
 
-<a href="https://shiina.xyz">website</a>
-&nbsp;·&nbsp;
-<a href="https://shiina.xyz/blog">blog</a>
-&nbsp;·&nbsp;
-<a href="https://x.com/saku_shiina">x</a>
-&nbsp;·&nbsp;
-<a href="mailto:sakushiina@proton.me">mail</a>
+<samp>
+  <a href="https://shiina.xyz">website</a>
+  •
+  <a href="https://shiina.xyz/blog">blog</a>
+  •
+  <a href="https://x.com/saku_shiina">x / twitter</a>
+  •
+  <a href="mailto:sakushiina@proton.me">mail</a>
+</samp>
 
 </div>
 
 ---
 
-## はじめに 
-
 <picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
+  <source
+    media="(prefers-color-scheme: dark)"
     srcset="https://github.com/ShiinaSaku/ShiinaSaku/raw/main/img/yachiyo.webp">
-  <img 
-    src="https://github.com/ShiinaSaku/ShiinaSaku/raw/main/img/yachiyo.webp" 
-    alt="Yachiyo" 
-    width="320" 
-    align="right" 
-    style="margin-left: 20px;">
+  <img
+    src="https://github.com/ShiinaSaku/ShiinaSaku/raw/main/img/yachiyo.webp"
+    alt="Yachiyo"
+    width="280"
+    align="right"
+    style="margin-left: 24px; margin-bottom: 12px;">
 </picture>
 
 **Saku Shiina（椎名 朔）** です。
 
-静かで芯のある web をつくるのが好きです。
+フロントエンドを軸に、設計と実装のあいだを行き来しています。
 
-見た目の美しさだけではなく、触れたときの気配、読み込みの速さ、構造の整い方まで含めて、ひとつの体験として丁寧に設計したいと思っています。
+見た目の美しさだけでなく、触れたときの気配、読み込みの速さ、構造の整い方まで含めて、ひとつの体験として丁寧に設計したいと思っています。
 
-普段はフロントエンドを軸に、設計と実装のあいだを行き来しながら、プロダクトの輪郭を少しずつ磨いています。  
-派手さよりも余白、ノイズよりも明瞭さ、説明しすぎることよりも、自然に伝わることを大切にしています。
+派手さよりも余白、ノイズよりも明瞭さ。自然に伝わることを大切にしています。
 
-サイトには制作や思想を、ブログには実装や設計の記録を。  
+サイトには制作と思想を、ブログには実装と設計の記録を。  
 GitHub には、その途中にある断片や積み重ねを置いています。
 
 > 速さのために雑にしない。  
@@ -51,14 +50,13 @@ GitHub には、その途中にある断片や積み重ねを置いています�
 
 <br />
 
+---
+
 ## 技術と道具
 
-<p align="left">
-  <img src="img/zed.svg" alt="Zed" title="Zed" width="48" style="vertical-align: middle; margin-right: 6px; background-color: #181717; border-radius: 12px; padding: 6px; box-sizing: border-box;" />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,tailwind,js,ts,react,vue,nextjs,nuxtjs,nodejs,bun,vite,astro,rust,go,apple&theme=dark&perline=8" alt="Tech stack" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,tailwind,js,ts,react,vue,nextjs,nuxtjs,nodejs,bun,vite,astro,rust,go,apple,python&theme=dark&perline=8" alt="Tech stack" />
+</a>
 
 <picture>
   <source
@@ -70,56 +68,43 @@ GitHub には、その途中にある断片や積み重ねを置いています�
 
 <br />
 
+---
+
 ## いま大切にしていること
 
-- frontend systems
-- design-aware engineering
-- performance and SEO
-- quiet interfaces with strong structure
-- practical developer experience
+<samp>frontend systems • design-aware engineering • performance & SEO • quiet interfaces • strong structure • developer experience</samp>
 
 <br />
+
+---
 
 ## 最近の記録
 
-- [Why Atomic CSS Wins at Scale: Tailwind to UnoCSS](https://shiina.xyz/blog)
-  <br />
-  production での移行や設計判断を、性能と DX の視点から整理した記録。
+- [Why Atomic CSS Wins at Scale: Tailwind to UnoCSS](https://shiina.xyz/blog)  
+  production での移行と設計判断を、性能と DX の視点から。
 
-- [From Visual References to Production UI Decisions](https://shiina.xyz/blog)
-  <br />
-  視覚的な参照を、実装可能な UI の判断材料へ落とし込むためのメモ。
+- [From Visual References to Production UI Decisions](https://shiina.xyz/blog)  
+  視覚的な参照を、実装可能な UI の判断材料へ落とし込むメモ。
 
-- [Designing Quiet Interfaces That Convert](https://shiina.xyz/blog)
-  <br />
-  ノイズを減らしながら、伝わり方と成果の両方を整えるための考え方。
+- [Designing Quiet Interfaces That Convert](https://shiina.xyz/blog)  
+  ノイズを減らしながら、伝わり方と成果の両方を整える考え方。
 
-もう少し落ち着いた文章や、設計寄りの記録は [shiina.xyz/blog](https://shiina.xyz/blog) にまとめています。
+→ [shiina.xyz/blog](https://shiina.xyz/blog)
 
 <br />
 
+---
+
 ## 断片
 
-```ShiinaSaku/README.md#L1-17
+```ts
 const shiina = {
-  name: "Saku Shiina",
-  jp: "椎名 朔",
+  name:   "Saku Shiina",
+  jp:     "椎名 朔",
   editor: ["Zed", "VS Code"],
-  stack: [
-    "TypeScript",
-    "JavaScript",
-    "React",
-    "Vue",
-    "Next.js",
-    "Nuxt",
-    "Astro",
-    "Node.js",
-    "Bun",
-    "Rust",
-    "Go",
-    "Tailwind CSS",
-  ],
-  taste: ["quiet UI", "clear systems", "fast delivery"],
+  stack:  ["TypeScript", "React", "Vue", "Next.js",
+           "Nuxt", "Astro", "Bun", "Rust", "Go"],
+  taste:  ["quiet UI", "clear systems", "fast delivery"],
 };
 ```
 
@@ -128,19 +113,6 @@ const shiina = {
 ---
 
 <div align="center">
-
-### 案内
-
-<a href="https://shiina.xyz">website</a>
-&nbsp;·&nbsp;
-<a href="https://shiina.xyz/blog">blog</a>
-&nbsp;·&nbsp;
-<a href="https://x.com/saku_shiina">x / twitter</a>
-&nbsp;·&nbsp;
-<a href="mailto:sakushiina@proton.me">mail</a>
-
-<br />
-<br />
 
 <sub>丁寧に設計し、速く届ける。</sub>
 
