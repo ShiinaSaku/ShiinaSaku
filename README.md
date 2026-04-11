@@ -86,7 +86,7 @@ GitHub には、その途中にある断片や積み重ねを置いています�
       srcset="https://kura.typeflu.workers.dev/api/top-langs?username=shiinasaku&compact=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://kura.typeflu.workers.dev/api/top-langs?username=shiinasaku" alt="Top Languages" />
+    <img src="https://kura.typeflu.workers.dev/api/top-langs?username=shiinasaku&compact=true" alt="Top Languages" />
   </picture>
 </div>
 
