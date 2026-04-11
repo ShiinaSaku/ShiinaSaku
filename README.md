@@ -1,8 +1,8 @@
 <div align="center">
 
-## 椎名 朔の記録
+<h2>椎名 朔の記録</h2>
 
-**Saku Shiina / 椎名 朔**
+<strong>Saku Shiina / 椎名 朔</strong>
 
 <sub>静かに、鋭く、丁寧に。</sub>
 
@@ -24,8 +24,13 @@
 
 <picture>
   <source
+    srcset="https://github.com/ShiinaSaku/ShiinaSaku/raw/main/img/yachiyo.webp"
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/ShiinaSaku/ShiinaSaku/raw/main/img/yachiyo.webp">
+  />
+  <source
+    srcset="https://github.com/ShiinaSaku/ShiinaSaku/raw/main/img/yachiyo.webp"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
   <img
     src="https://github.com/ShiinaSaku/ShiinaSaku/raw/main/img/yachiyo.webp"
     alt="Yachiyo"
@@ -34,9 +39,9 @@
     style="margin-left: 24px; margin-bottom: 12px;">
 </picture>
 
-**Saku Shiina（椎名 朔）** です。
+<strong>Saku Shiina（椎名 朔）</strong> です。
 
-フロントエンドを軸に、設計と実装のあいだを行き来しています。
+<code>TypeScript</code> / <code>JavaScript</code> を軸としたフロントエンドから、<code>Rust</code> や <code>Go</code> を用いたシステムまで、設計と実装のあいだを行き来しています。
 
 見た目の美しさだけでなく、触れたときの気配、読み込みの速さ、構造の整い方まで含めて、ひとつの体験として丁寧に設計したいと思っています。
 
@@ -45,32 +50,51 @@
 サイトには制作と思想を、ブログには実装と設計の記録を。  
 GitHub には、その途中にある断片や積み重ねを置いています。
 
-> 速さのために雑にしない。  
-> 美しさのために曖昧にしない。
+<blockquote>
+  速さのために雑にしない。<br />
+  美しさのために曖昧にしない。
+</blockquote>
 
 <br />
 
 ---
 
-## 技術と道具
+<h2>技術と道具</h2>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vscode,tailwind,js,ts,react,vue,nextjs,nuxtjs,nodejs,bun,vite,astro,rust,go,apple,python&theme=dark&perline=8" alt="Tech stack" />
 </a>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://card.shiina.xyz/card/ShiinaSaku?theme=shiina"
-  />
-  <img src="https://card.shiina.xyz/card/ShiinaSaku?theme=shiina" alt="Saku Shiina card" />
-</picture>
+<div align="left" style="display: flex; gap: 16px; flex-wrap: wrap; margin-top: 16px;">
+  <picture>
+    <source
+      srcset="https://kura.typeflu.workers.dev/api?username=shiinasaku&show_icons=true&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://kura.typeflu.workers.dev/api?username=shiinasaku&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://kura.typeflu.workers.dev/api?username=shiinasaku&show_icons=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://kura.typeflu.workers.dev/api/top-langs?username=shiinasaku&theme=dark&compact=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://kura.typeflu.workers.dev/api/top-langs?username=shiinasaku&compact=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://kura.typeflu.workers.dev/api/top-langs?username=shiinasaku" alt="Top Languages" />
+  </picture>
+</div>
 
 <br />
 
 ---
 
-## いま大切にしていること
+<h2>いま大切にしていること</h2>
 
 <samp>frontend systems • design-aware engineering • performance & SEO • quiet interfaces • strong structure • developer experience</samp>
 
@@ -78,24 +102,30 @@ GitHub には、その途中にある断片や積み重ねを置いています�
 
 ---
 
-## 最近の記録
+<h2>最近の記録</h2>
 
-- [Why Atomic CSS Wins at Scale: Tailwind to UnoCSS](https://shiina.xyz/blog)  
-  production での移行と設計判断を、性能と DX の視点から。
+<ul>
+  <li>
+    <a href="https://shiina.xyz/blog">Why Atomic CSS Wins at Scale: Tailwind to UnoCSS</a><br />
+    production での移行と設計判断を、性能と DX の視点から。
+  </li>
+  <li>
+    <a href="https://shiina.xyz/blog">From Visual References to Production UI Decisions</a><br />
+    視覚的な参照を、実装可能な UI の判断材料へ落とし込むメモ。
+  </li>
+  <li>
+    <a href="https://shiina.xyz/blog">Designing Quiet Interfaces That Convert</a><br />
+    ノイズを減らしながら、伝わり方と成果の両方を整える考え方。
+  </li>
+</ul>
 
-- [From Visual References to Production UI Decisions](https://shiina.xyz/blog)  
-  視覚的な参照を、実装可能な UI の判断材料へ落とし込むメモ。
-
-- [Designing Quiet Interfaces That Convert](https://shiina.xyz/blog)  
-  ノイズを減らしながら、伝わり方と成果の両方を整える考え方。
-
-→ [shiina.xyz/blog](https://shiina.xyz/blog)
+<p>→ <a href="https://shiina.xyz/blog">shiina.xyz/blog</a></p>
 
 <br />
 
 ---
 
-## 断片
+<h2>断片</h2>
 
 ```ts
 const shiina = {
