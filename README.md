@@ -75,7 +75,7 @@ GitHub には、その途中にある断片や積み重ねを置いています�
       srcset="https://kura.typeflu.workers.dev/api?username=shiinasaku&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://kura.typeflu.workers.dev/api?username=shiinasaku&show_icons=true" alt="GitHub Stats" />
+    <img src="https://kura.typeflu.workers.dev/api?username=shiinasaku&show_icons=true" alt="GitHub Stats" height="195" />
   </picture>
   <picture>
     <source
@@ -86,10 +86,9 @@ GitHub には、その途中にある断片や積み重ねを置いています�
       srcset="https://kura.typeflu.workers.dev/api/top-langs?username=shiinasaku&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://kura.typeflu.workers.dev/api/top-langs?username=shiinasaku&layout=compact" alt="Top Languages" />
+    <img src="https://kura.typeflu.workers.dev/api/top-langs?username=shiinasaku&layout=compact" alt="Top Languages" height="195" />
   </picture>
 </div>
-
 <br />
 
 ---
