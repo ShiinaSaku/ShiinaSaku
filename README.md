@@ -1,148 +1,87 @@
 <div align="center">
 
-<h2>椎名 朔の記録</h2>
+<h1>椎名 朔</h1>
 
-<strong>Saku Shiina / 椎名 朔</strong>
-
-<sub>静かに、鋭く、丁寧に。</sub>
-
-<br />
+<p><samp>frontend • systems • TypeScript • Rust • Go</samp></p>
 
 <samp>
-  <a href="https://shiina.xyz">website</a>
-  •
-  <a href="https://shiina.xyz/blog">blog</a>
-  •
-  <a href="https://x.com/saku_shiina">x / twitter</a>
-  •
+  <a href="https://shiina.xyz">website</a> •
+  <a href="https://shiina.xyz/blog">blog</a> •
+  <a href="https://x.com/saku_shiina">x</a> •
   <a href="mailto:sakushiina@proton.me">mail</a>
-</samp>
+</span>
 
 </div>
 
 ---
 
-<picture>
-  <source
-    srcset="https://github.com/ShiinaSaku/ShiinaSaku/raw/main/img/yachiyo.webp"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github.com/ShiinaSaku/ShiinaSaku/raw/main/img/yachiyo.webp"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github.com/ShiinaSaku/ShiinaSaku/raw/main/img/yachiyo.webp"
-    alt="Yachiyo"
-    width="280"
-    align="right"
-    style="margin-left: 24px; margin-bottom: 12px;">
-</picture>
+<img
+  src="https://github.com/ShiinaSaku/ShiinaSaku/raw/main/img/yachiyo.webp"
+  alt="Yachiyo"
+  width="260"
+  align="right"
+  style="margin-left: 28px; margin-bottom: 8px;"
+/>
 
-<strong>Saku Shiina（椎名 朔）</strong> です。
+フロントエンドからシステムレイヤーまで、設計と実装のあいだを行き来しています。
 
-<code>TypeScript</code> / <code>JavaScript</code> を軸としたフロントエンドから、<code>Rust</code> や <code>Go</code> を用いたシステムまで、設計と実装のあいだを行き来しています。
+触れたときの気配、読み込みの速さ、構造の整い方——それらをひとつの体験として丁寧に設計したい。  
+派手さよりも余白。ノイズよりも明瞭さ。
 
-見た目の美しさだけでなく、触れたときの気配、読み込みの速さ、構造の整い方まで含めて、ひとつの体験として丁寧に設計したいと思っています。
+> 速さのために雑にしない。美しさのために曖昧にしない。
 
-派手さよりも余白、ノイズよりも明瞭さ。自然に伝わることを大切にしています。
+サイトには制作と思想を、ブログには設計の記録を。GitHub には、その途中にある断片を。
 
-サイトには制作と思想を、ブログには実装と設計の記録を。  
-GitHub には、その途中にある断片や積み重ねを置いています。
-
-<blockquote>
-  速さのために雑にしない。<br />
-  美しさのために曖昧にしない。
-</blockquote>
-
-<br />
+<br clear="right"/>
 
 ---
 
-<h2>技術と道具</h2>
+## stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,tailwind,js,ts,react,vue,nextjs,nuxtjs,nodejs,bun,vite,astro,rust,go,apple,python&theme=dark&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nuxtjs,astro,bun,vite,rust,go,nodejs,tailwind,python&theme=dark&perline=7" />
 </a>
 
-<div align="left" style="display: flex; gap: 16px; flex-wrap: wrap; margin-top: 16px;">
-  <picture>
-    <source
-      srcset="https://kura.typeflu.workers.dev/api?username=shiinasaku&show_icons=true&theme=radical"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://kura.typeflu.workers.dev/api?username=shiinasaku&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://kura.typeflu.workers.dev/api?username=shiinasaku&show_icons=true" alt="GitHub Stats" height="195" />
-  </picture>
-  <picture>
-    <source
-      srcset="https://kura.typeflu.workers.dev/api/top-langs?username=shiinasaku&theme=radical&layout=compact"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://kura.typeflu.workers.dev/api/top-langs?username=shiinasaku&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://kura.typeflu.workers.dev/api/top-langs?username=shiinasaku&layout=compact" alt="Top Languages" height="195" />
-  </picture>
+<br />
+
+---
+
+## stats
+
+<div align="left" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;">
+  <img src="https://kura.typeflu.workers.dev/api?username=shiinasaku&show_icons=true&theme=radical" height="190" />
+  <img src="https://kura.typeflu.workers.dev/api/top-langs?username=shiinasaku&theme=radical&layout=compact" height="190" />
 </div>
-<br />
-
----
-
-<h2>いま大切にしていること</h2>
-
-<samp>frontend systems • design-aware engineering • performance & SEO • quiet interfaces • strong structure • developer experience</samp>
 
 <br />
 
 ---
 
-<h2>最近の記録</h2>
+## writing
 
-<ul>
-  <li>
-    <a href="https://shiina.xyz/blog">Why Atomic CSS Wins at Scale: Tailwind to UnoCSS</a><br />
-    production での移行と設計判断を、性能と DX の視点から。
-  </li>
-  <li>
-    <a href="https://shiina.xyz/blog">From Visual References to Production UI Decisions</a><br />
-    視覚的な参照を、実装可能な UI の判断材料へ落とし込むメモ。
-  </li>
-  <li>
-    <a href="https://shiina.xyz/blog">Designing Quiet Interfaces That Convert</a><br />
-    ノイズを減らしながら、伝わり方と成果の両方を整える考え方。
-  </li>
-</ul>
+- [**Why Atomic CSS Wins at Scale: Tailwind to UnoCSS**](https://shiina.xyz/blog)  
+  production での移行と設計判断を、性能と DX の視点から。
 
-<p>→ <a href="https://shiina.xyz/blog">shiina.xyz/blog</a></p>
+- [**From Visual References to Production UI Decisions**](https://shiina.xyz/blog)  
+  視覚的な参照を、実装可能な UI の判断材料へ落とし込む。
+
+- [**Designing Quiet Interfaces That Convert**](https://shiina.xyz/blog)  
+  ノイズを減らしながら、伝わり方と成果の両方を整える。
+
+→ [shiina.xyz/blog](https://shiina.xyz/blog)
 
 <br />
 
 ---
-
-<h2>断片</h2>
 
 ```ts
 const shiina = {
-  name:   "Saku Shiina",
-  jp:     "椎名 朔",
+  name:   "Saku Shiina / 椎名 朔",
   editor: ["Zed", "VS Code"],
-  stack:  ["TypeScript", "React", "Vue", "Next.js",
-           "Nuxt", "Astro", "Bun", "Rust", "Go"],
-  taste:  ["quiet UI", "clear systems", "fast delivery"],
-};
+  stack:  ["TypeScript", "React", "Vue", "Next.js", "Nuxt", "Astro", "Rust", "Go"],
+  values: ["quiet UI", "clear structure", "fast delivery"],
+} as const;
 ```
-
-<br />
-
 ---
-
-<div align="center">
-
-<sub>丁寧に設計し、速く届ける。</sub>
-
-</div>
+## 丁寧に設計し、速く届ける。
+---
