@@ -1,59 +1,52 @@
 <div align="center">
 
 <h1>椎名 朔</h1>
+<p><samp>Saku Shiina &nbsp;·&nbsp; frontend / systems / TypeScript / Rust / Go</samp></p>
 
-<p><samp>frontend • systems • TypeScript • Rust • Go</samp></p>
+<img src="assets/banner.svg" alt="Yachiyo" width="100%" />
 
-<samp>
-  <a href="https://shiina.xyz">website</a> •
-  <a href="https://shiina.xyz/blog">blog</a> •
-  <a href="https://x.com/saku_shiina">x</a> •
-  <a href="mailto:sakushiina@proton.me">mail</a>
-</span>
+<br />
+
+<a href="https://shiina.xyz"><img src="assets/link-website.svg" alt="website" height="30" /></a>
+<a href="https://shiina.xyz/blog"><img src="assets/link-blog.svg" alt="blog" height="30" /></a>
+<a href="https://x.com/saku_shiina"><img src="assets/link-x.svg" alt="x" height="30" /></a>
+<a href="mailto:sakushiina@proton.me"><img src="assets/link-mail.svg" alt="mail" height="30" /></a>
 
 </div>
 
----
+<br />
 
-<img
-  src="https://github.com/ShiinaSaku/ShiinaSaku/raw/main/img/yachiyo.webp"
-  alt="Yachiyo"
-  width="260"
-  align="right"
-  style="margin-left: 28px; margin-bottom: 8px;"
-/>
+設計と実装のあいだを、行き来しています。フロントエンドの気配から、システムレイヤーの構造まで。
 
-フロントエンドからシステムレイヤーまで、設計と実装のあいだを行き来しています。
-
-触れたときの気配、読み込みの速さ、構造の整い方——それらをひとつの体験として丁寧に設計したい。  
-派手さよりも余白。ノイズよりも明瞭さ。
+触れたときの余白、読み込みの速さ、組み立ての整い方——それらをひとつの体験として丁寧に設計したい。派手さより余白を。ノイズより明瞭さを。
 
 > 速さのために雑にしない。美しさのために曖昧にしない。
 
 サイトには制作と思想を、ブログには設計の記録を。GitHub には、その途中にある断片を。
 
-<br clear="right"/>
+<br />
 
 ---
 
 ## stack
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nuxtjs,astro,bun,vite,rust,go,nodejs,tailwind,python&theme=dark&perline=7" />
-</a>
+<div align="center">
 
-<br />
+<img src="assets/stack.png" alt="TypeScript, Rust, Go, and more" width="100%" />
+
+</div>
 
 ---
 
 ## stats
 
-<div align="left" style="display:flex; gap:12px; flex-wrap:wrap; margin-top:8px;">
-  <img src="https://kura.typeflu.workers.dev/api?username=shiinasaku&show_icons=true&theme=radical" height="190" />
-  <img src="https://kura.typeflu.workers.dev/api/top-langs?username=shiinasaku&theme=radical&layout=compact" height="190" />
-</div>
+<div align="center">
 
-<br />
+<img src="https://kura.typeflu.workers.dev/api?username=shiinasaku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2adfc0&icon_color=f2607a&text_color=9fb0c3&count_private=true" height="180" />
+&nbsp;
+<img src="https://kura.typeflu.workers.dev/api/top-langs?username=shiinasaku&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117&title_color=2adfc0&text_color=9fb0c3&langs_count=8" height="180" />
+
+</div>
 
 ---
 
@@ -68,9 +61,7 @@
 - [**Designing Quiet Interfaces That Convert**](https://shiina.xyz/blog)  
   ノイズを減らしながら、伝わり方と成果の両方を整える。
 
-→ [shiina.xyz/blog](https://shiina.xyz/blog)
-
-<br />
+<sup>→ &nbsp;[shiina.xyz/blog](https://shiina.xyz/blog)</sup>
 
 ---
 
@@ -82,6 +73,7 @@ const shiina = {
   values: ["quiet UI", "clear structure", "fast delivery"],
 } as const;
 ```
----
-## 丁寧に設計し、速く届ける。
----
+
+<div align="center">
+<samp>丁寧に設計し、速く届ける。</samp>
+</div>
